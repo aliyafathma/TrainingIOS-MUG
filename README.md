@@ -1,4 +1,4 @@
-# Z-Wallet-Viper Training
+# E-Wallet VIPER Training
 
 
 
